@@ -1,6 +1,6 @@
 """ 
 Definition
-Open/Closed Principle states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.e able to add new func This means you should btionality without changing existing code.
+Open/Closed Principle states that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. This means you should be able to add new functionality without changing existing code.
 
 Why It Matters
 Maintainability: Reduces the risk of introducing bugs when extending functionality.

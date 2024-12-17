@@ -59,7 +59,7 @@ from dataclasses import dataclass
 @dataclass
 class User:
     username: str
-    emil : str
+    email : str
 
 #Implement Dependency Injection: Enhance flexibility and testability by injecting dependencies.
 class DBConnector:
